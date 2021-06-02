@@ -34,6 +34,6 @@ toml==0.10.1
 typed-ast==1.4.1
 ujson==3.0.0
 umongo==2.2.0
-urllib3==1.25.9
+urllib3==1.26.5
 uvloop==0.14.0
 websockets==8.1
